@@ -1,1 +1,4 @@
 ecwmf-opendata
+numpy
+pandas
+xarray

@@ -1,2 +1,3 @@
 .venv
-data/data.grib2
+*.grib2
+*.DS_Store
